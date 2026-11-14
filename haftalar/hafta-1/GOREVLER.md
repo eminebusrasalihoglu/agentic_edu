@@ -16,7 +16,7 @@
    - `eval/test_seti.csv` – asistanın ölçüleceği 30 talep
    - `data/prosedurler/genel/PRS-GNL-001_sikayet_yonetimi_ve_temsilci_aktarimi.md` – bankanın kuralları
 
-## Görev 1 – Notebook'lar (45 dk)
+## Görev 1 – Notebook'lar (45 dk) ✅ 
 İki notebook'u sırayla baştan sona çalıştırın:
 1. `haftalar/hafta-1/01_isinma.ipynb` (20 dk): Aynı soruyu yerel modele ve Claude'a sorup cevapları, süreleri ve
    token sayılarını karşılaştıracaksınız.
@@ -25,7 +25,7 @@
 
 **Teslim:** Her notebook'un sonundaki tartışma sorularının cevaplarını o notebook'a bir markdown hücresi olarak ekleyin.
 
-## Görev 2 – Başlangıç skoru (35 dk)
+## Görev 2 – Başlangıç skoru (35 dk) ✅ 
 1. `haftalar/hafta-1/03_degerlendirme.ipynb` notebook'unu çalıştırın (15 dk). Değerlendirmenin nasıl yapıldığını
    5 talep üzerinde adım adım göreceksiniz.
 2. Aynı işi test setindeki 30 talebin hepsinde yapan betiği terminalde çalıştırın:
@@ -38,7 +38,7 @@ Ayrıntılı sonuçlar `eval/sonuclar/` altında bir CSV'dedir; açıp yanlış 
 **Teslim:** Kategori doğruluğu, davranış doğruluğu ve "kaçan riskli talep" sayısı. Ayrıca notebook'un sonundaki
 tartışma sorularının cevapları (notebook'a bir markdown hücresi olarak).
 
-## Görev 3 – Hata analizi (30 dk)
+## Görev 3 – Hata analizi (30 dk) ✅ 
 Yanlış satırları gruplayın. Her grup için bir cümleyle "model neden yanılıyor?" sorusunu cevaplayın.
 Bakılacak yerler:
 - Hangi davranışlar birbirine karışıyor?
@@ -88,8 +88,8 @@ Ortak sete göre prompt **ayarlamayın**: bu set, gerçek hayatta göremeyeceği
   (İpucu: Hafta 2'nin konusu.)
 
 ## Hafta sonu kontrol listesi
-- [ ] `python kontrol.py` hatasız
-- [ ] `python eval/calistir.py` hatasız ve skorunuz referans skorunuzdan yüksek
-- [ ] Üç notebook'taki tartışma soruları cevaplandı
+- [ ✅  ] `python kontrol.py` hatasız
+- [  ✅ ] `python eval/calistir.py` hatasız ve skorunuz referans skorunuzdan yüksek
+- [ ✅  ] Üç notebook'taki tartışma soruları cevaplandı
 
 Hazır çözüm: `git checkout hafta-1` (önce kendi çözümünüzü commit edin!)

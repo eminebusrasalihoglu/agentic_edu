@@ -33,7 +33,7 @@ cevap bulan, yanıt taslağı hazırlayan ve riskli durumları insana aktaran bi
 3. VS Code'da klasörü açın → *Reopen in Container*.
 4. Modelleri indirin (bir kez):
    - Mac (host terminalinde): `ollama pull qwen3.5:4b && ollama pull nomic-embed-text`
-   - Windows/Linux: `docker compose exec ollama ollama pull qwen3.5:4b` ve `docker compose exec ollama ollama pull nomic-embed-text`
+   - Windows/Linux: `docker compose up -d ollama`, `docker compose exec ollama ollama pull qwen3.5:4b` ve `docker compose exec ollama ollama pull nomic-embed-text`
 5. Container terminalinde kontrol edin:
 
 ```bash
