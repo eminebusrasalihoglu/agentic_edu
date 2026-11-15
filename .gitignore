@@ -11,7 +11,7 @@ __pycache__/
 haftalar/*/egitmen_notu.md
 
 # Üretilen çıktılar (eval/temel_cizgi/ bilerek git'e girer)
-eval/sonuclar/
+#eval/sonuclar/
 logs/
 data/indeks/
 *.faiss
@@ -19,3 +19,5 @@ data/indeks/
 
 # Claude Code proje talimatları (yerel kalır, GitHub'a gitmez)
 CLAUDE.md
+
+env/
