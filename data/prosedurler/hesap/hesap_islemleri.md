@@ -1,10 +1,10 @@
 ---
 kategori: hesap
-baslik: Hesap Blokesi, IBAN ve Hesap Kapama
+baslik: Hesap Blokesi, IBAN 
 gizlilik: musteri
 guncelleme_tarihi: 2026-10-01
 ---
-# Hesap Blokesi, IBAN ve Hesap Kapama
+# Hesap Blokesi, IBAN
 
 > Kurgusal eğitim belgesi (Hafta 3). "Örnek Bank" adına uydurulmuştur; gerçek bir bankanın prosedürü değildir.
 
@@ -17,6 +17,3 @@ guncelleme_tarihi: 2026-10-01
 ## IBAN öğrenme
 - IBAN, Mobil Şube > Hesaplarım > Hesap Detayı ekranında yer alır ve oradan paylaşılabilir.
 
-## Hesap kapama
-- Hesap kapama bir yazma işlemidir (insan onayı); asistan hesabı kapatamaz, talep temsilciye aktarılır.
-- Hesapta bakiye, bağlı otomatik ödeme talimatı veya kredi kullandırımı varsa önce bunlar müşteriye bildirilir.
