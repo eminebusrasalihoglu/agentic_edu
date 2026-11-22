@@ -20,7 +20,8 @@ KATEGORILER = {
     "hesap": {
         "aciklama": "Vadesiz/vadeli hesap, bakiye, hesap blokesi, hesap ücretleri, hesap kapama, IBAN, "
                     "EFT/havale/FAST, döviz alımı ve kur, mobil/internet şube ve şifre sorunları, hesaptan para kaybettiren "
-                    "dolandırıcılık MAĞDURİYETİ.",
+                    "dolandırıcılık MAĞDURİYETİ."
+                    "şube işlemleri, şube randevusu",
         "araclar": ["musteri_bilgisi", "hesap_durumu", "gecmis_talepler", "prosedur_ara", "doviz_kuru"],
         "prosedur_klasoru": PROSEDUR_KOKU / "hesap",
     },
